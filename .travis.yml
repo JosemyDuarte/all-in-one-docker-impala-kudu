@@ -1,0 +1,13 @@
+language: bash
+dist: trusty
+sudo: required
+services:
+  - docker
+
+install: true
+
+script:
+   - if [ "$TRAVIS_BRANCH" == "master" ]; then
+     docker login -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD";
+     make release;
+     fi

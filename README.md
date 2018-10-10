@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/andreysabitov/docker-impala-kudu.svg?branch=master)](https://travis-ci.org/andreysabitov/docker-impala-kudu)
+[![Build Status](https://travis-ci.org/josemyduarte/docker-impala-kudu.svg?branch=master)](https://travis-ci.org/josemyduarte/docker-impala-kudu)
 
 # Kudu/Impala container from CDH5 stack
 
