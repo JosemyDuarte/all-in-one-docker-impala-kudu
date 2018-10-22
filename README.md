@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/JosemyDuarte/docker-impala-kudu.svg?branch=master)](https://travis-ci.org/JosemyDuarte/docker-impala-kudu)
+[![Build Status](https://travis-ci.org/JosemyDuarte/all-in-one-docker-impala-kudu.svg?branch=master)](https://travis-ci.org/JosemyDuarte/all-in-one-docker-impala-kudu)
 
 # Kudu/Impala container from CDH5 stack
 
@@ -17,5 +17,5 @@ List of ports:
 
 ## Tags
 
-[cdh5.15.1](https://github.com/JosemyDuarte/all-in-one-docker-impala-kudu/blob/cdh5.15.1/Dockerfile), [latest](https://github.com/JosemyDuarte/all-in-one-docker-impala-kudu/blob/master/Dockerfile)
-[cdh5.14.2](https://github.com/JosemyDuarte/all-in-one-docker-impala-kudu/blob/cdh5.14.2/Dockerfile)
+* [cdh5.15.1](https://github.com/JosemyDuarte/all-in-one-docker-impala-kudu/blob/cdh5.15.1/Dockerfile), [latest](https://github.com/JosemyDuarte/all-in-one-docker-impala-kudu/blob/master/Dockerfile)
+* [cdh5.14.2](https://github.com/JosemyDuarte/all-in-one-docker-impala-kudu/blob/cdh5.14.2/Dockerfile)
