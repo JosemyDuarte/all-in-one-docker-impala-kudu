@@ -7,7 +7,7 @@ This is a standalone container which has Apache Kudu and Impala installed with d
 ## Run container
 
 ```
-docker run -d -net=host josemyd/all-in-one-impala-kudu
+docker run -d --net=host josemyd/all-in-one-impala-kudu
 ```
 
 List of ports:
